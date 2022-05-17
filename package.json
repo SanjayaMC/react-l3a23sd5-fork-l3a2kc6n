@@ -1,0 +1,19 @@
+{
+  "name": "@wcd/sanjayamc.react-l3a23sd5-fork-l3a2kc6n",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 0nSZ8bYLx0Cq6WKnTWp7 --open"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "react-to-webcomponent": "^1"
+  },
+  "devDependencies": {
+    "lit-html": "^2"
+  }
+}
